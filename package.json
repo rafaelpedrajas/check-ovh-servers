@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@ovhcloud/node-ovh": "^3.0.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.7",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
