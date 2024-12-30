@@ -37,7 +37,6 @@ git clone https://github.com/rafaelpedrajas/check-ovh-servers
 cd check-ovh-servers
 ```
 
-hola que tal
 ### 2. Instalar dependencias
 ```bash
 npm install
